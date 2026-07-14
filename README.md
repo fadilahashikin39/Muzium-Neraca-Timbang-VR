@@ -1,4 +1,4 @@
-# VR Linear Equation Simulation
+# Galeri Eksplorasi Matematik : A VR Linear Equation Simulation 
 
 A VR-based educational application developed to help students understand linear equations through interactive balance scale simulations and immersive learning experiences. :contentReference[oaicite:1]{index=1}
 
